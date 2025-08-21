@@ -1,0 +1,11 @@
+selenium
+webdriver-manager
+python-dotenv
+pandas
+ta
+python-telegram-bot
+colorama
+numpy
+pyTelegramBotAPI
+requests
+telebot
