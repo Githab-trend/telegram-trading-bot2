@@ -6,9 +6,10 @@ services:
     buildCommand: "pip install -r requirements.txt"
     startCommand: "python pocket-option.py"
     envVars:
-      - key: '7954820177:AAGyODLYEdPqGY6_y0Cgh0QE5Ujjkb8V_P4'
+      - key: TELEGRAM_TOKEN
         sync: false
      
+
 
 
 
